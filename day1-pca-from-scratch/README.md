@@ -107,11 +107,7 @@ python pca_from_scratch.py
 
 ---
 
-## 📌 Interview-Ready Explanation
 
-> "I implemented PCA from scratch by centering the data, computing the covariance matrix, extracting eigenvectors as principal directions, sorting them by eigenvalues which represent variance, and projecting the data onto the top components. I validated the results against sklearn’s SVD-based PCA."
-
----
 
 ## 🚀 Extensions
 

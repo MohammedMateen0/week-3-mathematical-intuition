@@ -135,11 +135,7 @@ python naive_bayes_text.py
 
 ---
 
-## 📌 Interview-Ready Explanation
 
-> “I implemented Bayes theorem for a medical test scenario to demonstrate base rate effects, explored common probability distributions using scipy, simulated the Central Limit Theorem to show convergence to normality, computed expectation and variance for discrete distributions, and built a Naive Bayes classifier using log probabilities to ensure numerical stability.”
-
----
 
 ## 🚀 Extensions
 
